@@ -1,0 +1,4 @@
+commands:
+ - 'say Hi :D'
+ - 'say welcome %PLAYER%'
+ - 'say %PREFIX% hello !!!! %PLAYER%'

@@ -1,0 +1,9 @@
+name: Man10LoginBonus
+version: ${project.version}
+main: red.man10.man10loginbonus.Man10LoginBonus
+softdepend: [Man10PlayerDataArchive]
+authors: [Sho0]
+description: Man10LoginBonus plugin
+commands:
+ mlb:
+ man10loginbonus:

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Man10LoginBonus:jar">
+    <output-path>$PROJECT_DIR$/../spigot/plugins</output-path>
+    <root id="archive" name="Man10LoginBonus.jar">
+      <element id="module-output" name="Man10LoginBonus" />
+    </root>
+  </artifact>
+</component>
